@@ -4,7 +4,7 @@
   <p>🎓 Estudante de TI & Desenvolvedor Mobile em aprendizado.</p>
   
   <p>
-    <a href="https://linkedin.com/in/david.espinosadle" target="_blank">
+    <a href="https://linkedin.com/in/david-espinosadle" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:049espinosa@gmail.com">
