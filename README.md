@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/Espinosa93.png" width="120px" style="border-radius: 50%;" alt="Avatar"/>
   <h1>Olá, eu sou o David! 👋</h1>
-  <p>🎓 Estudante de TI & Desenvolvedor Mobile em aprendizado.</p>
+  <p>🎓 Este repositório é focado em Desenvolvedor Mobile em aprendizado.</p>
   
   <p>
     <a href="https://linkedin.com/in/david-espinosadle" target="_blank">
